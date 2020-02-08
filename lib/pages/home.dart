@@ -14,7 +14,13 @@ class HomePage extends StatelessWidget {
           ),
           onPressed: () {},
         ),
-        actions: <Widget>[],
+      ),
+      floatingActionButton: FloatingActionButton(
+        child: Icon(
+          Icons.arrow_forward,
+        ),
+        backgroundColor: Colors.black,
+        onPressed: () {},
       ),
     );
   }
