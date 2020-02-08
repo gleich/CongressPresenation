@@ -9,7 +9,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: "Congress Project",
-      theme: ThemeData(fontFamily: "SourceSansPro"),
       home: MySite(),
     );
   }
