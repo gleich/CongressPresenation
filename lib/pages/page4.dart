@@ -15,7 +15,7 @@ class Page4 extends StatelessWidget {
         "✍️ Usally the other house makes chnages and then the following will happen:",
         "\t1️⃣ Conference committee attempts to create foreground between the houses",
         "\t2️⃣ Conference committee then sends the bill back to both houses for new vote",
-        "\t (whichever is first) as Ney its killed",
+        "\t (whichever is first) as ney its killed",
       ],
       stepName: "4. Other House\n(House of Reps)",
       middleBoxWidth: 75.0,
