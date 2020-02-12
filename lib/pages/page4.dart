@@ -11,8 +11,8 @@ class Page4 extends StatelessWidget {
       lines: [
         "1️⃣ The bill first gets reported to the house by the Rules Committee",
         "⚖️ If a bill receives the majority of votes in the house and Senate as Yea it passes",
-        "💀 If a bill receives the majority of votes in the house or Senate",
-        "✍️ Usally the other house makes chnages and then the following will happen:",
+        "💀 If a bill receives the majority of votes in the house or Senate as Ney it dead",
+        "✍️ Usally the other house makes changes and then the following will happen:",
         "\t1️⃣ Conference committee attempts to create foreground between the houses",
         "\t2️⃣ Conference committee then sends the bill back to both houses for new vote",
         "\t (whichever is first) as ney its killed",
