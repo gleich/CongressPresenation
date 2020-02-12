@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
               stop: 0,
               delay: 3,
               child: Text(
-                "The Process of a Bill",
+                "Transition of a Bill to a Law",
                 style: GoogleFonts.playfairDisplay(
                   textStyle: TextStyle(
                     fontSize: 100,
