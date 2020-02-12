@@ -13,7 +13,7 @@ class Page3 extends StatelessWidget {
         "📭 Open rule allows amendments",
         "📪 Closed rule restricts amendments",
         "📉 Open rule makes it harder for the bill to pass because",
-        "\topponents can add claused to the bill that the proponents have to vote for",
+        "\topponents can add clauses to the bill that the proponents have to vote for",
         "✅ If a bill wins in the majority in the Senate as yea it moves to the house",
       ],
       stepName: "3. Senate",
