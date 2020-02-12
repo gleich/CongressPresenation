@@ -9,13 +9,13 @@ class Page2 extends StatelessWidget {
     return PageOutline(
       nextPage: Page3(),
       lines: [
-        "✨ The committee for the corresponding house is specialized",
+        "✨ The committee and subcommittee for the corresponding house is specialized",
         "\t🔫 An example would be the Senate Armed Services Committee",
         "👍 👎 The committee then debates the bill",
         "🏁 If the bill wins a majority vote in the committee as yea it moves to the Senate or House",
         "\t (In this example process the Senate)"
       ],
-      stepName: "2. Committee",
+      stepName: "2. Committees\n& Subcommittees",
       middleBoxWidth: 75.0,
       linesFontSize: 30.0,
     );
